@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.bestbuy.storeinfo.CreateStoreDataDrivenTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.514 sec <<< FAILURE! - in com.bestbuy.storeinfo.CreateStoreDataDrivenTest
+createMultipleStores(com.bestbuy.storeinfo.CreateStoreDataDrivenTest)  Time elapsed: 0.006 sec  <<< ERROR!
+java.lang.NullPointerException: null
+	at com.bestbuy.storeinfo.CreateStoreDataDrivenTest.createMultipleStores(CreateStoreDataDrivenTest.java:36)
+

@@ -1,0 +1,6 @@
+com\bestbuy\testbase\TestBaseProduct.class
+com\bestbuy\storeinfo\CreateStoreDataDrivenTest.class
+com\bestbuy\storeinfo\StoreCRUDTestWithSteps.class
+com\bestbuy\productinfo\CreateProductDataDrivenTest.class
+com\bestbuy\productinfo\ProductCRUDTestWithStep.class
+com\bestbuy\testbase\TestBaseStore.class

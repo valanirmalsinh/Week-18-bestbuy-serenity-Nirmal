@@ -1,0 +1,75 @@
+
+Name,type,address,address2,city,state,zip,lat,lng,hours,services
+Jenny,framework,PO Box 86380,Suite 68,Budapest,Budapest,126-57-4590,47.4325252,19.157136,3:13 AM,Web Developer III
+Morgan,database,PO Box 4467,Suite 79,Budapest,Budapest,601-86-4056,47.53708,19.127509,10:58 PM,Mechanical Systems Engineer
+Jonathan,multi-state,Room 109,Apt 1002,Budapest,Budapest,180-92-5106,47.510162,19.0238539,6:51 AM,Database Administrator III
+Jonathan,emulation,PO Box 25265,Suite 12,Budapest,Budapest,150-80-1941,47.545979,19.0375319,3:03 AM,Cost Accountant
+Morgan,Quality-focused,Room 1204,Apt 1986,Budapest,Budapest,454-65-1296,47.5271519,19.1172826,10:28 AM,Mechanical Systems Engineer
+Emanual,web-enabled,Suite 83,Room 1705,Budapest,Budapest,629-13-6175,47.4540768,19.0943343,12:51 AM,Desktop Support Technician
+Jenny,Intuitive,15th Floor,Suite 54,Budapest,Budapest,527-36-5094,47.479469,19.0544773,3:59 PM,Health Coach IV
+Mona,national,Apt 1087,5th Floor,Budapest,Budapest,268-64-1022,47.4325252,19.157136,2:47 PM,Developer IV
+Jonathan,installation,Suite 23,Room 176,Budapest,Budapest,380-58-6274,47.517115,19.053701,11:52 AM,Computer Systems Analyst I
+Jenny,Digitized,13th Floor,Apt 1810,Budapest,Budapest,702-22-6152,47.479469,19.0544773,6:16 PM,Teacher
+Jenny,tertiary,Room 1816,Room 665,Budapest,Budapest,732-98-4855,47.3879065,19.1150392,8:04 PM,Graphic Designer
+Sarah,Inverse,PO Box 38695,Apt 55,Budapest,Budapest,497-40-4295,47.4997688,19.0731949,5:33 AM,Accounting Assistant II
+Jenny,didactic,8th Floor,Room 1329,Budapest,Budapest,636-04-9545,47.545979,19.0375319,9:28 PM,Quality Control Specialist
+Emanual,asynchronous,16th Floor,6th Floor,Budapest,Budapest,230-37-2308,47.517115,19.053701,1:13 PM,Operator
+Sarah,systemic,Apt 1045,PO Box 25917,Budapest,Budapest,309-89-4344,47.4997688,19.0731949,4:29 AM,Programmer I
+Mona,incremental,PO Box 80580,Suite 66,Budapest,Budapest,894-01-1360,47.510162,19.0238539,7:18 PM,Assistant Professor
+Sarah,Configurable,Suite 26,6th Floor,Budapest,Budapest,127-24-2540,47.4997688,19.0731949,11:13 AM,Structural Engineer
+Morgan,stable,Room 1022,Apt 1731,Budapest,Budapest,868-11-4923,47.4997688,19.0731949,9:43 AM,Account Executive
+Jenny,context-sensitive,Room 1961,Room 1113,Budapest,Budapest,762-60-3828,47.510162,19.0238539,3:52 AM,Web Developer IV
+Emanual,Diverse,PO Box 79169,Suite 62,Budapest,Budapest,100-33-2779,47.3879065,19.1150392,11:29 AM,Health Coach IV
+Sarah,Configurable,18th Floor,Room 1750,Budapest,Budapest,815-10-3036,47.545979,19.0375319,1:12 PM,Electrical Engineer
+Mona,Phased,PO Box 31033,Room 972,Budapest,Budapest,730-01-0983,47.4325252,19.157136,7:20 PM,Nuclear Power Engineer
+Morgan,systematic,Room 1588,16th Floor,Budapest,Budapest,767-98-4596,47.4325252,19.157136,6:45 AM,Associate Professor
+Sarah,archive,Apt 824,Apt 759,Budapest,Budapest,630-74-2707,47.5039111,19.0158217,6:09 PM,Civil Engineer
+Mona,adapter,Room 1722,Room 513,Budapest,Budapest,125-69-6297,47.545979,19.0375319,8:16 AM,Structural Analysis Engineer
+Sarah,strategy,PO Box 15606,10th Floor,Budapest,Budapest,322-71-1478,47.4031036,19.0922063,3:40 AM,Environmental Tech
+Jenny,functionalities,PO Box 72966,Room 870,Budapest,Budapest,475-01-8360,47.545979,19.0375319,11:52 AM,Operator
+Emanual,executive,Room 1230,Apt 798,Budapest,Budapest,575-93-5514,47.4912362,19.0858151,4:11 PM,Executive Secretary
+Mona,Object-based,Room 1491,PO Box 63216,Budapest,Budapest,400-24-6551,47.5735211,19.1068043,1:56 AM,Administrative Officer
+Jonathan,Vision-oriented,PO Box 67925,Apt 781,Budapest,Budapest,234-10-7240,47.510162,19.0238539,7:32 PM,Graphic Designer
+Jenny,Ameliorated,Apt 472,Apt 1859,Budapest,Budapest,366-32-5691,47.4540768,19.0943343,7:19 PM,Administrative Officer
+Jonathan,high-level,Room 1278,2nd Floor,Budapest,Budapest,357-70-4752,47.5271519,19.1172826,11:50 PM,Information Systems Manager
+Jenny,interface,Suite 33,1st Floor,Budapest,Budapest,476-06-0380,47.4031036,19.0922063,11:18 PM,Structural Analysis Engineer
+Mona,Self-enabling,Apt 1270,Apt 1143,Budapest,Budapest,301-51-2041,47.5139827,19.0645121,10:58 PM,Nurse Practicioner
+Jenny,contextually-based,PO Box 78984,Apt 25,Budapest,Budapest,890-48-3127,47.53708,19.127509,11:40 PM,Office Assistant IV
+Emanual,interactive,PO Box 85613,11th Floor,Budapest,Budapest,362-16-9167,47.3879065,19.1150392,4:13 AM,Computer Systems Analyst I
+Emanual,support,Room 1023,Room 1091,Budapest,Budapest,249-39-8661,47.5735211,19.1068043,5:40 AM,Quality Engineer
+Morgan,reciprocal,2nd Floor,5th Floor,Budapest,Budapest,246-49-7194,47.5139827,19.0645121,9:19 AM,VP Quality Control
+Sarah,pricing structure,PO Box 48628,Apt 1411,Budapest,Budapest,285-10-5538,47.479469,19.0544773,10:43 PM,Senior Quality Engineer
+Morgan,time-frame,Suite 13,PO Box 82531,Budapest,Budapest,834-42-5482,47.4031036,19.0922063,7:40 PM,Design Engineer
+Mona,secondary,15th Floor,Suite 26,Budapest,Budapest,167-16-4917,47.4325252,19.157136,3:32 PM,Assistant Media Planner
+Mona,utilisation,PO Box 67243,PO Box 15324,Budapest,Budapest,669-46-4263,47.510162,19.0238539,9:23 PM,Programmer Analyst III
+Emanual,high-level,Suite 92,1st Floor,Budapest,Budapest,791-33-5569,47.4540768,19.0943343,5:45 AM,Accountant IV
+Morgan,modular,Apt 1698,Suite 88,Budapest,Budapest,717-20-2577,47.517115,19.053701,9:19 PM,Geological Engineer
+Jenny,monitoring,Suite 51,Suite 92,Budapest,Budapest,407-53-0349,47.545979,19.0375319,4:56 PM,Health Coach III
+Morgan,portal,1st Floor,Apt 425,Budapest,Budapest,314-62-9497,47.5271519,19.1172826,11:48 AM,Programmer Analyst I
+Sarah,regional,Apt 180,PO Box 23606,Budapest,Budapest,714-09-0725,47.545979,19.0375319,7:15 PM,Dental Hygienist
+Emanual,implementation,Apt 1204,PO Box 94418,Budapest,Budapest,747-01-5140,47.5039111,19.0158217,7:22 AM,Mechanical Systems Engineer
+Morgan,Diverse,Room 1214,13th Floor,Budapest,Budapest,707-35-4065,47.5735211,19.1068043,11:45 AM,Associate Professor
+Morgan,projection,Apt 1936,Room 950,Budapest,Budapest,434-62-3811,47.5139827,19.0645121,9:04 AM,Assistant Professor
+Mona,Virtual,Apt 1846,Apt 1199,Budapest,Budapest,388-74-0566,47.545979,19.0375319,12:48 AM,Human Resources Manager
+Sarah,encryption,Room 1212,Room 527,Budapest,Budapest,278-08-1844,47.479469,19.0544773,4:44 PM,Sales Associate
+Jenny,Pre-emptive,Room 1578,12th Floor,Budapest,Budapest,840-96-1395,47.4912362,19.0858151,11:22 PM,Engineer I
+Emanual,Multi-lateral,Room 1259,16th Floor,Budapest,Budapest,871-57-4038,47.440449,19.1700809,1:04 AM,Account Representative IV
+Emanual,Organized,PO Box 37631,PO Box 2951,Budapest,Budapest,252-85-9093,47.53708,19.127509,8:37 PM,Computer Systems Analyst I
+Jonathan,User-centric,Apt 1278,Room 1752,Budapest,Budapest,508-12-6746,47.510162,19.0238539,7:44 AM,Information Systems Manager
+Jonathan,De-engineered,Room 176,15th Floor,Budapest,Budapest,101-99-6918,47.5139827,19.0645121,5:44 PM,Junior Executive
+Emanual,Advanced,19th Floor,14th Floor,Budapest,Budapest,687-01-7457,47.517115,19.053701,9:25 AM,Operator
+Morgan,capability,Suite 93,PO Box 83733,Budapest,Budapest,324-56-6975,47.545979,19.0375319,12:56 AM,Clinical Specialist
+Sarah,intermediate,Room 1231,Room 506,Budapest,Budapest,742-03-4455,47.5735211,19.1068043,7:16 AM,Sales Representative
+Sarah,strategy,12th Floor,Suite 74,Budapest,Budapest,448-36-3179,47.5139827,19.0645121,6:43 AM,Information Systems Manager
+Jonathan,Mandatory,PO Box 36148,Apt 1531,Budapest,Budapest,343-23-1093,47.4540768,19.0943343,6:58 PM,Actuary
+Jenny,bi-directional,PO Box 25202,Room 134,Budapest,Budapest,461-77-5795,47.545979,19.0375319,6:44 AM,Environmental Specialist
+Sarah,hierarchy,Room 348,Suite 70,Budapest,Budapest,664-66-8948,47.440449,19.1700809,8:29 AM,General Manager
+Jenny,tertiary,PO Box 42831,PO Box 90691,Budapest,Budapest,305-75-8302,47.4540768,19.0943343,1:17 PM,Web Designer II
+Sarah,Implemented,Suite 79,Room 254,Budapest,Budapest,830-21-4931,47.4325252,19.157136,4:09 AM,Account Representative I
+Emanual,real-time,Apt 702,PO Box 15166,Budapest,Budapest,301-36-6856,47.545979,19.0375319,11:12 AM,Teacher
+Jenny,Re-engineered,Suite 16,PO Box 32594,Budapest,Budapest,728-15-5172,47.5139827,19.0645121,2:43 AM,Human Resources Manager
+Jenny,Open-source,Suite 95,4th Floor,Budapest,Budapest,205-60-5805,47.5271519,19.1172826,7:58 PM,Web Designer III
+Jonathan,exuding,Apt 1711,Room 295,Budapest,Budapest,783-86-2082,47.517115,19.053701,11:37 PM,Assistant Media Planner
+# Rows:
+70
+​
